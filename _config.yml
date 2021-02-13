@@ -1,4 +1,4 @@
-url: "https://flammable-duck.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "flammableduck.xyz/site/" # the subpath of your site, e.g. /blog
+url: "https://flammableduck.xyz/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/site/" # the subpath of your site, e.g. /blog
 title: "FlammableDuck.xyz" # the name of your site, e.g. ACME Corp.
 author: "Flammable Duck"
