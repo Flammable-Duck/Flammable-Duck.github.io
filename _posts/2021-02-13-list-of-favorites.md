@@ -5,7 +5,7 @@ title: "List Of Favorites"
 
 <!--<li><a data-text="" href="" target="_blank"></a></li>-->
 
-Here are some of my favorite things, arranged by topics, but otherwise out of order:
+<l>Here are some of my favorite things, arranged by topics, but otherwise out of order:</l>
 
 <h3>Video Games</h3>
 <ul>
