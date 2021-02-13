@@ -4,7 +4,7 @@ title: "List Of Favorites"
 ---
 
 <!--<li><a data-text="" href="" target="_blank"></a></li>-->
-
+<div>
 <l>Here are some of my favorite things, arranged by topics, but otherwise out of order:</l>
 
 <h3>Video Games</h3>
@@ -42,3 +42,4 @@ I've only recently started watching anime, so this list isnt going to be particu
 <li><a data-text="Z Library" href="https://z-lib.org/" target="_blank">Z Library</a></li>
 <li><a data-text="Devhints.io" href="https://devhints.io/" target="_blank">Devhints.io</a></li>
 </ul>
+</div>
