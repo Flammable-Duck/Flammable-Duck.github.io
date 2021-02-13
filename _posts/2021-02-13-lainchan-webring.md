@@ -1,0 +1,63 @@
+---
+layout: default
+title: "Lainchan Webring"
+---
+<div>
+    
+      <h1>Webring</h1>	
+	  <p>Go check these neat sites out:</p>
+	  <a href="http://yukinu.com/"><img src="/images/yukinu.gif" alt="yukinu"></a>
+      <a href="http://alienozi.c1.biz/"><img src="/images/lambda.png" alt="alienozi"></a>
+	  <a href="http://kamel.surge.sh/"><img src="/images/nobloat.png" alt="kamel"></a>
+      <a href="https://jyushimatsu.web.fc2.com/"><img src="/images/how.png" alt="osomatsu guy" width="240" height="60"></a>
+	  <a href="https://megaroad01.co/"><img src="/images/frontier.png" alt="megaroad"></a>
+	  <a href="http://www.cutewaifu.com/"><img src="/images/waifu.png" alt="cutewaitu"></a>
+	  <a href="https://qorg11.net/"><img src="/images/bigqorg.png" alt="me!"></a>
+	  <a href="https://fenixfogelfuchs.xyz/"><img src="/images/fonix.png" alt="fonix"></a>
+	  <a href="https://xerophyte.neocities.org/"><img src="/images/xero.gif" alt="xero"></a>
+	  <a href="http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion/"><img src="/images/aether.png" alt="aether"></a>
+	  <a href="https://tinfoil-hat.net/"><img src="/images/hat.png" alt="tinfoil-hat"></a>
+	  <a href="https://nightt.neocities.org/"><img src="/images/nightss.gif" alt="nights"></a>
+	  <a href="https://volta.neocities.org/"><img src="/images/1597457620551.png" alt="volta" width="240" height="60"></a>
+	  <a href="https://jakesthoughts.xyz/"><img src="/images/jakesthoughts.gif" alt="jake"></a>
+	  <a href="http://kolyma.jp/hosting"><img src="/images/1597896548861.png" alt="kolyma"></a>
+      <a href="https://www.davidgebski.nl/"><img src="/images/david.png" alt="david"></a>
+	  <a href="https://getimiskon.neocities.org/"><img src="/images/getimiskon.png" alt="getimiskon"></a>
+	  <a href="https://crystaldata.neocities.org/"><img src="/images/crystaldata.png" alt="crystaldata"></a>
+	  <a href="https://saladslab.karabo.ga/"><img src="/images/salad.jpg" alt="salad"></a>
+	  <a href="http://ic3333h2g3p7ffv6ypscxfvgomi2oj7x45xkqzpay6txjl2nlg5qwcid.onion/"><img src="/images/ic3.png"></a>
+	  <a href="https://concealed.world/"><img src="/images/worldthinglol.gif" alt="concealedworld"></a>
+	  <a href="http://wh3zlpmhtec4odnskihkbjbqixw45jkkgsk5c2mh6j3qhrdggocnbbad.onion/"><img src="/images/nobody.gif" alt="nobody" width="240" height="60"></a>
+	  <a href="https://mayvaneday.art/"><img src="/images/may.png" alt="mayvaneday" width="240" height="60"></a>
+	  <a href="https://dataswamp.org/~lich/"><img src="/images/lich.png" alt="lich"></a>
+	  <a href="http://45.173.129.126/stream"><img src="/images/radio.png" alt="radio"></a>
+	  <a href="https://saltorn.neocities.org/"><img src="/images/saltorn.png" alt="saltorn"></a>
+	  <a href="https://uwcur.neocities.org/"><img src="/images/uwcur.png" alt="uwcur"></a>
+	  <a href="http://nyom.ru/"><img src="/images/nyom.png" alt="nyom" width="240" height="60"></a>
+	  <a href="http://geocities.ws/skeletons"><img src="/images/bone.png" alt="bone zone" width="240" height="60"></a>
+	  <a href="https://deurist.neocities.org/"><img src="/images/deurist.png" alt="deurist"></a>
+	  <a href="https://www.tohya.net/"><img src="/images/tohya.png" alt="tohya"></a>
+      <a href="https://limpingdogsdoghouse.neocities.org/"><img src="/images/doghouse.png" alt="doghouse"></a>
+	  <a href="https://etheriarchos.neocities.org/"><img src="/images/eth.png" alt="bloated site"></a>
+	  <a href="https://kyubit.neocities.org/"><img src="/images/kyubit.png" alt="kyubit"></a>
+	  <a href="https://grafovolaverunt.xyz/"><img src="/images/grafo.gif" alt="grafo"></a>
+	  <a href="https://kill-9.xyz/"><img src="/images/kill-9.png" alt="kill-9"></a>
+	  <a href="https://computability.neocities.org/"><img src="/images/computability.png" alt="computability"></a>
+      <a href="https://lainch.leibur.eu/"><img src="/images/lainch.png" alt="lainch"></a>
+	  <a href="https://sftn.github.io/"><img src="/images/stfn.png" alt="sftn"></a>
+	  <a href="https://lilibyte.net/"><img src="/images/lily.gif" alt="lily"></a>
+	  <a href="https://wiredspace.de/"><img src="/images/wiredspace.png" alt="wiredspace"></a>
+	  <a href="https://strlst.myogaya.jp/index.html"><img src="/images/strlst.png" alt="strlst"></a>
+	  <a href="https://user-index.xyz/"><img src="/images/user-index.gif" alt="user-index"></a>
+	  <a href="https://user-outdex.xyz/"><img src="/images/outdex.jpg" alt="user-outdex"></a>
+	  <a href="https://skumsoft.ltd/slimenet"><img src="/images/slime.gif" alt="silime"></a>
+	  <a href="https://jack---91.neocities.org/"><img src="/images/jackmatrix.gif" alt="jack"></a>
+	  <a href="https://bendersteed.tech/"><img src="/images/bendersteed.jpg" alt="bendersteed"></a>
+	  <a href="https://techur.live/"><img src="/images/techur.png" alt="techur"></a>
+	  <a href="https://www.six10.pw/"><img src="/images/six10webring.png" alt="SIX10"></a>
+	  <br>
+	  <br>
+	 <h3>Add me to your site!</h3>
+	 <a href="https://flammableduck.xyz/"><img src="/images/flammableduck.png" alt="FlammableDuck.xyz"></a>
+
+</div>

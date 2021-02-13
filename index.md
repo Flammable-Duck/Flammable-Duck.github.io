@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-test
+Hello and, again, welcome to the Aperture Science computer-aided enrichment center.

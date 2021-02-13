@@ -1,7 +1,12 @@
-h1 { text-align: left; text-transform: capitalize; font-size: 20px; display: inline; }
+h1 {
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 20px;
+  display: inline; }
 
-nav { display: inline; font-size: 20px; }
+nav {
+  display: inline;
+  font-size: 20px; }
 
-hr { border-top: 1px #b3a1e6; }
-
-/*# sourceMappingURL=navbar.css.map */
+hr {
+  border-top: 1px #b3a1e6; }
