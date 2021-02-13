@@ -1,0 +1,17 @@
+---
+---
+$bodyBorder:1px  #b3a1e6;
+
+h1 {
+	text-align: left;
+	text-transform: capitalize;
+	font-size: 20px;
+	display: inline;
+}
+nav {
+	display: inline;
+	font-size: 20px;
+}
+hr {
+  border-top: $bodyBorder;
+}
