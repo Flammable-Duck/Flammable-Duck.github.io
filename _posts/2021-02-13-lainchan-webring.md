@@ -55,6 +55,7 @@ title: "Webring"
 	  <a href="https://bendersteed.tech/"><img src="/images/bendersteed.jpg" alt="bendersteed"></a>
 	  <a href="https://techur.live/"><img src="/images/techur.png" alt="techur"></a>
 	  <a href="https://www.six10.pw/"><img src="/images/six10webring.png" alt="SIX10"></a>
+	  <a href="https://bubby.me/"><img src="/images/bubby.png" alt="Bubby.me"></a>
 	  <br>
 	  <br>
 	 <h3>Add me to your site!</h3>
