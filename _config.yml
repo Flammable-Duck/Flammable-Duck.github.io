@@ -2,3 +2,5 @@ url: "https://Flammable-Duck.github.io" # the base hostname & protocol for your 
 baseurl: "Flammable-Duck.github.io/" # the subpath of your site, e.g. /blog
 title: "FlammableDuck.xyz" # the name of your site, e.g. ACME Corp.
 author: "Flammable Duck"
+plugins:
+  - jekyll-feed
