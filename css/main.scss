@@ -39,9 +39,10 @@ ul li:before {
 }
 
 footer {
-	position:absolute;
+	position:fixed;
 	bottom: 10px;
-	left:20px;
+	left: 40%;
+	text-align: center;
 	background: $backgroundColor;
 }
 
