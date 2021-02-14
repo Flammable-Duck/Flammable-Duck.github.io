@@ -38,6 +38,18 @@ ul li:before {
     font-weight: bold;
 }
 
+footer {
+	position:absolute;
+	bottom: 10px;
+	left:20px;
+	background: $backgroundColor;
+}
+
+b {
+	margin-left:2px;
+	margin-right:2px;
+}
+
 /* Links */
 a {
          &:link {

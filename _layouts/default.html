@@ -7,9 +7,12 @@
     <link rel="stylesheet" href="{{ "css/navbar.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "css/main.css" | relative_url }}">
   </head>
+  <main>
   <body>
     {% include nav.html %}
     {{ content }}
     {% include postlist.html %}
   </body>
+    {% include footer.html %}
+  </main>
 </html>
