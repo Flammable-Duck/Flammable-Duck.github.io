@@ -4,3 +4,4 @@ title: "FlammableDuck.xyz" # the name of your site, e.g. ACME Corp.
 author: "Flammable Duck"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
