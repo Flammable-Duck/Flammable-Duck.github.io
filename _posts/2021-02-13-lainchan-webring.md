@@ -56,6 +56,8 @@ title: "Webring"
 	  <a href="https://techur.live/"><img src="/images/techur.png" alt="techur"></a>
 	  <a href="https://www.six10.pw/"><img src="/images/six10webring.png" alt="SIX10"></a>
 	  <a href="https://bubby.me/"><img src="/images/bubby.png" alt="Bubby.me"></a>
+	  <a href="https://gapandfriends.neocities.org/"><img src="/images/gap.png" alt="gapandfriends"></a>
+	  <a href="https://tildezero.xyz/~goat/#rigmarole"><img src="/images/goat.jpg" alt="goat"></a>
 	  <br>
 	  <br>
 	 <h3>Add me to your site!</h3>
