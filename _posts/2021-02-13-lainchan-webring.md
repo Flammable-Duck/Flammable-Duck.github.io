@@ -58,6 +58,7 @@ title: "Webring"
 	  <a href="https://bubby.me/"><img src="/images/bubby.png" alt="Bubby.me"></a>
 	  <a href="https://gapandfriends.neocities.org/"><img src="/images/gap.png" alt="gapandfriends"></a>
 	  <a href="https://tildezero.xyz/~goat/#rigmarole"><img src="/images/goat.jpg" alt="goat"></a>
+	  <a href="https://purplevoid.neocities.org/"><img src="/images/purplevoid.png" alt="Purple Void"></a>
 	  <br>
 	  <br>
 	 <h3>Add me to your site!</h3>
