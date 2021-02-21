@@ -33,7 +33,7 @@ title: "Webring"
 	  <a href="http://45.173.129.126/stream"><img src="/images/radio.png" alt="radio"></a>
 	  <a href="https://saltorn.neocities.org/"><img src="/images/saltorn.png" alt="saltorn"></a>
 	  <a href="https://uwcur.neocities.org/"><img src="/images/uwcur.png" alt="uwcur"></a>
-	  <a href="http://nyom.ru/"><img src="/images/nyom.png" alt="nyom" width="240" height="60"></a>
+	  <a href="http://nyom.ru/"><img src="/images/nyom.gif" alt="nyom" width="240" height="60"></a>
 	  <a href="http://geocities.ws/skeletons"><img src="/images/bone.png" alt="bone zone" width="240" height="60"></a>
 	  <a href="https://deurist.neocities.org/"><img src="/images/deurist.png" alt="deurist"></a>
 	  <a href="https://www.tohya.net/"><img src="/images/tohya.png" alt="tohya"></a>
