@@ -10,6 +10,9 @@ $bodyBorder:1px solid #686f9a;
 	src: url('waifu.ttf');
 }
 
+::selection {
+  background: #1b1c36;
+}
 
 body {
   background: $backgroundColor;
@@ -61,7 +64,14 @@ a {
          }
         &:link, &:visited, &:hover, &:active {text-decoration: none;}
 }
-
+code {
+    font-family: courier;
+    background: #30365F;
+    border: $bodyBorder;
+    display: block;
+    padding: 2px;
+    margin: 4px;
+}
 
 
 
