@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-Hello, and welcome to my website. Not much here yet, but I plan to add more in the future.
+Hello, and welcome to my website. Feel free to check out some of my posts <strike>or laugh at my shitty website</strike> whle your here :)
